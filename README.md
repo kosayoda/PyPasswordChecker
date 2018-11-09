@@ -1,5 +1,6 @@
 <h1 align="center">PyPasswordChecker</h1>
 <p align="center">
+    <img width="25%" src="logo.png">
     A Simple Password Checker<br><br>
 </p>
 
@@ -11,14 +12,22 @@
 ## Installation
 
 1. Download the **[source code](https://github.com/kosayoda/PyPasswordChecker/releases)**
+
 2. Unpack the **zip file**
+
 3. Run the main script
   ```
   python3 main.py
   ```
-  > Tested in Python 3.6.6
+  > **Note**: Tested in Python 3.6.6
 
 ## Screenshots
+
+<p align="center">
+    <img width="50%" src="docs/screens/menu.png">
+    <img width="50%" src="docs/screens/main.png">
+    <img width="50%" src="docs/screens/settings.png">
+</p>
 
 ## License
 
