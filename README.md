@@ -1,6 +1,3 @@
-# PyPasswordChecker
-Simple Password Checker written in Python and tkinter
-
 <h1 align="center">PyPasswordChecker</h1>
 <p align="center">
     A Simple Password Checker<br><br>
