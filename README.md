@@ -1,7 +1,9 @@
 <h1 align="center">PyPasswordChecker</h1>
 <p align="center">
-    <img width="25%" src="logo.png">
-    A Simple Password Checker<br><br>
+    <img width="10%" src="logo.png">
+</p>
+<p align="center">
+A Simple Password Checker<br><br>
 </p>
 
 ## Requirements
