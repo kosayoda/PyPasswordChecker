@@ -13,13 +13,13 @@ A Simple Password Checker<br><br>
 
 ## Installation
 
-1. Download the **[source code](https://github.com/kosayoda/PyPasswordChecker/releases)**
+1. Click the **Clone or download** button in the top right corner then click **Download ZIP**
 
 2. Unpack the **zip file**
 
 3. Run the main script
   ```
-  python3 main.py
+  python main.py
   ```
   > **Note**: Tested in Python 3.6.6
 
